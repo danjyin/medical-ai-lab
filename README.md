@@ -43,3 +43,4 @@ This project focuses on developing a deep learning pipeline for **automated dise
    - Upload trained model weights to `models/`  
    - Simple web interface for image upload and prediction  
 
+Everything still pending
