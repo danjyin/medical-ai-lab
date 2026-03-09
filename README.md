@@ -1,4 +1,4 @@
-# Medical AI Lab 🧬
+# Medical AI Lab
 
 
 ---
