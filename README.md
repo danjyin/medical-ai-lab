@@ -44,3 +44,4 @@ This project focuses on developing a deep learning pipeline for **automated dise
    - Simple web interface for image upload and prediction  
 
 Everything still pending
+needs update
