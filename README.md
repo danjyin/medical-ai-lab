@@ -1,6 +1,5 @@
 # Medical AI Lab
 
-
 ---
 
 ## Project Overview
