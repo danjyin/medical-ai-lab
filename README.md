@@ -1,7 +1,7 @@
 # Medical AI Lab
 --
 ---
-## still pending.........
+## still pending..........
 ## Project Overview
 
 **Project Name:** Medical Image Classification for Disease Diagnosis  
