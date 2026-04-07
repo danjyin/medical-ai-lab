@@ -3,7 +3,7 @@
 ---
 ## still pending.........
 ## Project Overview
-
+#
 **Project Name:** Medical Image Classification for Disease Diagnosis  
 
 This project focuses on developing a deep learning pipeline for **automated disease diagnosis from medical images** (e.g., X-rays, CT scans, or MRIs). The goal is to build a **robust, accurate, and deployable model** that can assist clinicians in medical decision-making.
