@@ -18,7 +18,7 @@ This project focuses on developing a deep learning pipeline for **automated dise
 
 ## Methodology
 
-1. **Data Preprocessing:**  
+1. **Data Preprocessing:**    
    - Load images and labels  
    - Split dataset into training, validation, and test sets  
    - Apply augmentations to improve generalization  
