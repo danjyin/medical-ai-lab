@@ -10,7 +10,7 @@ This project focuses on developing a deep learning pipeline for **automated dise
 
 **Key Objectives:**
 - Classify medical images into healthy vs diseased categories  
-- Build a reproducible deep learning pipeline using PyTorch  
+- Build a reproducible deep learning pipeline using PyTorch    
 - Evaluate model performance with standard metrics  
 - Deploy the trained model for inference via a simple API  
 
